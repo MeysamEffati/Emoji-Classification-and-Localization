@@ -1,6 +1,14 @@
+In this project for the image classificaiton and localization, the new inputs will be classified for the 9 classes of emjies including the 
+happy, puking, happy, crying, ...
+Also, the location of the emojies will be locted by the corresponig boxes.
 
-A new change to be tracked
-This code is added to the branch3
+It should be noted the original images for the emojies are only 9 by the diminsion of 72 by 72.
 
-this is added to the branch2 This text is added to the branch1 xThis is added to be removed This is the second chage to the readme file This the first text on my Readme file
+Accordingly, new images will be created by the new diminsion of 144 by 144 and the emojies will be moved on the new images
 
+. It should be mentioend that a new convolutiuonal neural network is degined from the scracth by the following specifications.
+
+It has n convlaayers with followed by the dense layers
+
+
+ 
