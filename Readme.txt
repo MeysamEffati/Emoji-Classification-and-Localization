@@ -1,3 +1,7 @@
+
+This is the change done on the github to be followed on the local computer
+
+
 In this project for the image classificaiton and localization, the new inputs will be classified for the 9 classes of emjies including the 
 happy, puking, happy, crying, ...
 Also, the location of the emojies will be locted by the corresponig boxes.
